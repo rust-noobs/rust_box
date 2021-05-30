@@ -1,5 +1,5 @@
 [package]
-name = "RustBox"
+name = "rust_box"
 version = "0.1.0"
 authors = ["RadPlayzDEV <RadPlayzNeverDies@gmail.com>"]
 edition = "2018"
